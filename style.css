@@ -1,0 +1,43 @@
+* {
+    text-align: center;
+    color: black;
+
+
+}
+
+header {
+    width: 100%;
+    border: 10px solid darkblue;
+    background-color: lightblue;
+    text-align: center;
+
+}
+
+
+.About-Me {
+    display: flex;
+    justify-content: space-between;
+    padding: 60px;
+    color: #fff;
+}
+
+.Work {
+    border: 10px solid black;
+}
+
+footer {
+
+    margin-top: 10px;
+    border: 10px solid darkblue;
+    background-color: lightblue;
+
+}
+
+ul {
+    display: inline;
+}
+
+.links {
+    display: inline;
+    color: brown;
+}
