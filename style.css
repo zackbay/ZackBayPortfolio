@@ -41,3 +41,8 @@ ul {
     display: inline;
     color: brown;
 }
+
+img {
+    width: 50%;
+    height: auto;
+}
